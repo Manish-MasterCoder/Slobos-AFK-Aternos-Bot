@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Slobot0",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "Manish-Kingdom.aternos.me",
