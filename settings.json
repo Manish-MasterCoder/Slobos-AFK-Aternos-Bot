@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Manish-Kingdom.aternos.me:35587",
+    "ip": "Manish-Kingdom.aternos.me",
     "port": 35587,
     "version": "1.21.1",
     "try-creative": false
